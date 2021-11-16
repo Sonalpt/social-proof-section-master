@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'Spartan-Regular';
+  src: url(../policies/Spartan/static/Spartan-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Spartan-Medium';
+  src: url(../policies/Spartan/static/Spartan-Medium.ttf);
+}
+
+@font-face {
+  font-family: 'Spartan-Bold';
+  src: url(../policies/Spartan/static/Spartan-Bold.ttf);
+}
+
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-image: url(../images/bg-pattern-top-desktop.svg), url(../images/bg-pattern-bottom-desktop.svg);
+  background-position: left top, right bottom;
+  background-repeat: no-repeat, no-repeat;
+  font-family: 'Spartan-Regular', sans-serif;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  .social {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }

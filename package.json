@@ -1,0 +1,19 @@
+{
+  "name": "social-proof-section-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonalpt/social-proof-section-master.git"
+  },
+  "author": "remsB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sonalpt/social-proof-section-master/issues"
+  },
+  "homepage": "https://github.com/Sonalpt/social-proof-section-master#readme"
+}
